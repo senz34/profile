@@ -1,0 +1,9 @@
+{
+  "name": "Sercan Çelik",
+  "short_name": "Sercan",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#000000",
+  "description": "Sercan Çelik - Web Developer"
+}
